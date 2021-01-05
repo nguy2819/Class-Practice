@@ -1,0 +1,18 @@
+.text-centered {
+  text-align: center;
+}
+
+.dark-background {
+  background-color: #1E1E1E;
+  color: white;
+}
+
+.light-background {
+  background-color: #c8d2e0;
+  color: #1E1E1E;
+}
+
+.wrapper {
+  width: 300px;
+  margin: auto;
+}
